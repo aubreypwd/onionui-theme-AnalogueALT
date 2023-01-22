@@ -1,7 +1,7 @@
 {
-    "name": "Analogue",
-    "author": "Aemiii91",
-    "description": "Minimalist theme inspired by Analogue OS",
+    "name": "AnalogueALT",
+    "author": "aubreypwd",
+    "description": "Minimalist theme inspired by Analogue by Aemiii91",
     "batteryPercentage": {
         "visible": true,
         "color": "#FFFFFF"
